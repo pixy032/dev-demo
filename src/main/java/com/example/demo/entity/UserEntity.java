@@ -8,9 +8,7 @@ public class UserEntity {
 
     public Integer id;
 
-    public String username;
-
-    public String password;
+    public String name;
 
     public String email;
 
